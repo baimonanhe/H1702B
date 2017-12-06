@@ -1,0 +1,741 @@
+2017-11-27 12:23:53  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 12:23:53  [ localhost-startStop-1:100 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 12:23:53 CST 2017]; root of context hierarchy
+2017-11-27 12:23:53  [ localhost-startStop-1:159 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 158 ms
+2017-11-27 17:03:03  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 17:03:03  [ localhost-startStop-1:130 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 17:03:03 CST 2017]; root of context hierarchy
+2017-11-27 17:03:03  [ localhost-startStop-1:209 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 209 ms
+2017-11-27 18:44:49  [ http-bio-8083-exec-9:6106612 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 18:44:50  [ http-bio-8083-exec-9:6106617 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 18:44:50 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 18:44:50  [ http-bio-8083-exec-9:6106799 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization completed in 185 ms
+2017-11-27 18:44:50  [ http-bio-8083-exec-9:6106808 ] - [ WARN ]  No mapping found for HTTP request with URI [/redis/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:09:14  [ http-bio-8083-exec-2:11170745 ] - [ WARN ]  No mapping found for HTTP request with URI [/redis/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:23:29  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:23:30  [ localhost-startStop-1:122 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:23:30 CST 2017]; root of context hierarchy
+2017-11-27 20:23:30  [ localhost-startStop-1:205 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 189 ms
+2017-11-27 20:25:51  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:25:51  [ localhost-startStop-1:77 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:25:51 CST 2017]; root of context hierarchy
+2017-11-27 20:25:51  [ localhost-startStop-1:136 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 136 ms
+2017-11-27 20:27:03  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:27:03  [ localhost-startStop-1:101 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:27:03 CST 2017]; root of context hierarchy
+2017-11-27 20:27:03  [ localhost-startStop-1:183 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 183 ms
+2017-11-27 20:29:00  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:29:00  [ localhost-startStop-1:85 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:29:00 CST 2017]; root of context hierarchy
+2017-11-27 20:29:00  [ localhost-startStop-1:190 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 189 ms
+2017-11-27 20:29:22  [ http-bio-8083-exec-10:22392 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 20:29:22  [ http-bio-8083-exec-10:22398 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 20:29:22 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 20:29:23  [ http-bio-8083-exec-10:22623 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization completed in 229 ms
+2017-11-27 20:29:23  [ http-bio-8083-exec-10:22631 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:29:24  [ http-bio-8083-exec-10:24191 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:29:25  [ http-bio-8083-exec-10:25033 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:29:26  [ http-bio-8083-exec-10:25718 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:29:26  [ http-bio-8083-exec-10:26298 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:19  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:32:20  [ localhost-startStop-1:99 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:32:20 CST 2017]; root of context hierarchy
+2017-11-27 20:32:20  [ localhost-startStop-1:173 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 172 ms
+2017-11-27 20:32:22  [ http-bio-8083-exec-1:2055 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 20:32:22  [ http-bio-8083-exec-1:2059 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 20:32:22 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 20:32:22  [ http-bio-8083-exec-1:2131 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization completed in 75 ms
+2017-11-27 20:32:22  [ http-bio-8083-exec-1:2155 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:24  [ http-bio-8083-exec-2:4504 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:25  [ http-bio-8083-exec-3:5424 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:26  [ http-bio-8083-exec-4:6065 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:26  [ http-bio-8083-exec-5:6521 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:26  [ http-bio-8083-exec-6:7001 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:27  [ http-bio-8083-exec-7:7426 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:27  [ http-bio-8083-exec-8:7848 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:28  [ http-bio-8083-exec-9:8205 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:32:28  [ http-bio-8083-exec-10:8588 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:33:58  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:33:58  [ localhost-startStop-1:101 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:33:58 CST 2017]; root of context hierarchy
+2017-11-27 20:33:58  [ localhost-startStop-1:177 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 176 ms
+2017-11-27 20:34:29  [ http-bio-8083-exec-1:30719 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 20:34:29  [ http-bio-8083-exec-1:30724 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 20:34:29 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 20:34:29  [ http-bio-8083-exec-1:30792 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization completed in 72 ms
+2017-11-27 20:34:29  [ http-bio-8083-exec-1:30826 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:34:31  [ http-bio-8083-exec-2:32298 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:34:32  [ http-bio-8083-exec-3:33627 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:36:55  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:36:55  [ localhost-startStop-1:73 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:36:55 CST 2017]; root of context hierarchy
+2017-11-27 20:36:56  [ localhost-startStop-1:130 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 130 ms
+2017-11-27 20:37:03  [ http-bio-8083-exec-1:8068 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 20:37:03  [ http-bio-8083-exec-1:8072 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 20:37:03 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 20:37:04  [ http-bio-8083-exec-1:8137 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization completed in 68 ms
+2017-11-27 20:37:04  [ http-bio-8083-exec-1:8171 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:37:06  [ http-bio-8083-exec-2:10276 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:40:10  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:40:10  [ localhost-startStop-1:120 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:40:10 CST 2017]; root of context hierarchy
+2017-11-27 20:40:10  [ localhost-startStop-1:170 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 169 ms
+2017-11-27 20:40:18  [ http-bio-8083-exec-1:8718 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 20:40:18  [ http-bio-8083-exec-1:8722 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 20:40:18 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 20:40:18  [ http-bio-8083-exec-1:8780 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization completed in 61 ms
+2017-11-27 20:40:18  [ http-bio-8083-exec-1:8800 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:40:22  [ http-bio-8083-exec-2:12863 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:43:30  [ http-bio-8083-exec-4:199907 ] - [ WARN ]  No mapping found for HTTP request with URI [/list.do] in DispatcherServlet with name 'springmvc'
+2017-11-27 20:47:59  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:48:00  [ localhost-startStop-1:108 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:48:00 CST 2017]; root of context hierarchy
+2017-11-27 20:48:00  [ localhost-startStop-1:165 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]
+2017-11-27 20:48:00  [ localhost-startStop-1:532 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]
+2017-11-27 20:48:00  [ localhost-startStop-1:581 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-service.xml]
+2017-11-27 20:48:00  [ localhost-startStop-1:798 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\db.properties]
+2017-11-27 20:48:00  [ localhost-startStop-1:798 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\resource.properties]
+2017-11-27 20:48:00  [ localhost-startStop-1:824 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 20:48:01  [ localhost-startStop-1:1374 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis/SqlMapConfig.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1566)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:743)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis/SqlMapConfig.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:434)
+	at org.mybatis.spring.SqlSessionFactoryBean.afterPropertiesSet(SqlSessionFactoryBean.java:340)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1625)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1562)
+	... 21 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:109)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:92)
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:428)
+	... 24 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.apache.ibatis.builder.BaseBuilder.resolveClass(BaseBuilder.java:103)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.pluginElement(XMLConfigBuilder.java:142)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:100)
+	... 26 more
+Caused by: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.apache.ibatis.type.TypeAliasRegistry.resolveAlias(TypeAliasRegistry.java:117)
+	at org.apache.ibatis.builder.BaseBuilder.resolveAlias(BaseBuilder.java:130)
+	at org.apache.ibatis.builder.BaseBuilder.resolveClass(BaseBuilder.java:101)
+	... 28 more
+Caused by: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.apache.ibatis.io.ClassLoaderWrapper.classForName(ClassLoaderWrapper.java:190)
+	at org.apache.ibatis.io.ClassLoaderWrapper.classForName(ClassLoaderWrapper.java:89)
+	at org.apache.ibatis.io.Resources.classForName(Resources.java:256)
+	at org.apache.ibatis.type.TypeAliasRegistry.resolveAlias(TypeAliasRegistry.java:113)
+	... 30 more
+2017-11-27 20:48:01  [ localhost-startStop-1:1377 ] - [ ERROR ]  Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis/SqlMapConfig.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1566)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:743)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.core.NestedIOException: Failed to parse config resource: class path resource [mybatis/SqlMapConfig.xml]; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:434)
+	at org.mybatis.spring.SqlSessionFactoryBean.afterPropertiesSet(SqlSessionFactoryBean.java:340)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1625)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1562)
+	... 21 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:109)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:92)
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:428)
+	... 24 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.apache.ibatis.builder.BaseBuilder.resolveClass(BaseBuilder.java:103)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.pluginElement(XMLConfigBuilder.java:142)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:100)
+	... 26 more
+Caused by: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.github.pagehelper.PageHelper'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.apache.ibatis.type.TypeAliasRegistry.resolveAlias(TypeAliasRegistry.java:117)
+	at org.apache.ibatis.builder.BaseBuilder.resolveAlias(BaseBuilder.java:130)
+	at org.apache.ibatis.builder.BaseBuilder.resolveClass(BaseBuilder.java:101)
+	... 28 more
+Caused by: java.lang.ClassNotFoundException: Cannot find class: com.github.pagehelper.PageHelper
+	at org.apache.ibatis.io.ClassLoaderWrapper.classForName(ClassLoaderWrapper.java:190)
+	at org.apache.ibatis.io.ClassLoaderWrapper.classForName(ClassLoaderWrapper.java:89)
+	at org.apache.ibatis.io.Resources.classForName(Resources.java:256)
+	at org.apache.ibatis.type.TypeAliasRegistry.resolveAlias(TypeAliasRegistry.java:113)
+	... 30 more
+2017-11-27 20:49:42  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:49:42  [ localhost-startStop-1:79 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:49:42 CST 2017]; root of context hierarchy
+2017-11-27 20:49:42  [ localhost-startStop-1:122 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]
+2017-11-27 20:49:42  [ localhost-startStop-1:338 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]
+2017-11-27 20:49:42  [ localhost-startStop-1:358 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-service.xml]
+2017-11-27 20:49:42  [ localhost-startStop-1:560 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\db.properties]
+2017-11-27 20:49:42  [ localhost-startStop-1:560 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\resource.properties]
+2017-11-27 20:49:42  [ localhost-startStop-1:569 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 20:49:42  [ localhost-startStop-1:878 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.niuniu.jedis.JedisClientPool] for bean with name 'jedisClient' defined in file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]; nested exception is java.lang.ClassNotFoundException: com.niuniu.jedis.JedisClientPool
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1317)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:622)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:591)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1386)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:957)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:742)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: com.niuniu.jedis.JedisClientPool
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1702)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1547)
+	at org.springframework.util.ClassUtils.forName(ClassUtils.java:249)
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.resolveBeanClass(AbstractBeanDefinition.java:395)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doResolveBeanClass(AbstractBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1309)
+	... 19 more
+2017-11-27 20:49:42  [ localhost-startStop-1:882 ] - [ ERROR ]  Context initialization failed
+org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.niuniu.jedis.JedisClientPool] for bean with name 'jedisClient' defined in file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]; nested exception is java.lang.ClassNotFoundException: com.niuniu.jedis.JedisClientPool
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1317)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:622)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:591)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1386)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:957)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:742)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: com.niuniu.jedis.JedisClientPool
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1702)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1547)
+	at org.springframework.util.ClassUtils.forName(ClassUtils.java:249)
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.resolveBeanClass(AbstractBeanDefinition.java:395)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doResolveBeanClass(AbstractBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1309)
+	... 19 more
+2017-11-27 20:54:07  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:54:07  [ localhost-startStop-1:84 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:54:07 CST 2017]; root of context hierarchy
+2017-11-27 20:54:07  [ localhost-startStop-1:129 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]
+2017-11-27 20:54:07  [ localhost-startStop-1:494 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]
+2017-11-27 20:54:07  [ localhost-startStop-1:515 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-service.xml]
+2017-11-27 20:54:08  [ localhost-startStop-1:721 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\db.properties]
+2017-11-27 20:54:08  [ localhost-startStop-1:721 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\resource.properties]
+2017-11-27 20:54:08  [ localhost-startStop-1:730 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 20:54:08  [ localhost-startStop-1:954 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClient' defined in file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.redis.dao.JedisClient]: Specified class is an interface
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1038)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.redis.dao.JedisClient]: Specified class is an interface
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:68)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1086)
+	... 22 more
+2017-11-27 20:54:08  [ localhost-startStop-1:958 ] - [ ERROR ]  Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClient' defined in file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.redis.dao.JedisClient]: Specified class is an interface
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1093)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1038)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.redis.dao.JedisClient]: Specified class is an interface
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:68)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1086)
+	... 22 more
+2017-11-27 20:58:26  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 20:58:26  [ localhost-startStop-1:99 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 20:58:26 CST 2017]; root of context hierarchy
+2017-11-27 20:58:26  [ localhost-startStop-1:144 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]
+2017-11-27 20:58:27  [ localhost-startStop-1:304 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]
+2017-11-27 20:58:27  [ localhost-startStop-1:326 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-service.xml]
+2017-11-27 20:58:27  [ localhost-startStop-1:600 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\db.properties]
+2017-11-27 20:58:27  [ localhost-startStop-1:601 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\resource.properties]
+2017-11-27 20:58:27  [ localhost-startStop-1:635 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 20:58:28  [ localhost-startStop-1:1346 ] - [ ERROR ]  Error while adding the mapper 'interface com.redis.mapper.UserMapper' to configuration.
+org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:120)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:92)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.loadXmlResource(MapperAnnotationBuilder.java:166)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parse(MapperAnnotationBuilder.java:118)
+	at org.apache.ibatis.binding.MapperRegistry.addMapper(MapperRegistry.java:71)
+	at org.apache.ibatis.session.Configuration.addMapper(Configuration.java:651)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:97)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1625)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1562)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getTypeForFactoryBean(AbstractBeanFactory.java:1410)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryBean(AbstractAutowireCapableBeanFactory.java:802)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isTypeMatch(AbstractBeanFactory.java:541)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:436)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:412)
+	at org.springframework.beans.factory.BeanFactoryUtils.beanNamesForTypeIncludingAncestors(BeanFactoryUtils.java:187)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1112)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1051)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:530)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.apache.ibatis.builder.MapperBuilderAssistant.setCurrentNamespace(MapperBuilderAssistant.java:78)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:112)
+	... 48 more
+2017-11-27 20:58:28  [ localhost-startStop-1:1350 ] - [ WARN ]  Bean creation exception on FactoryBean type check: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMapper' defined in file [D:\shixun\abc\redis\target\classes\com\redis\mapper\UserMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+2017-11-27 20:58:28  [ localhost-startStop-1:1362 ] - [ ERROR ]  Error while adding the mapper 'interface com.redis.mapper.UserMapper' to configuration.
+org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:120)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:92)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.loadXmlResource(MapperAnnotationBuilder.java:166)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parse(MapperAnnotationBuilder.java:118)
+	at org.apache.ibatis.binding.MapperRegistry.addMapper(MapperRegistry.java:71)
+	at org.apache.ibatis.session.Configuration.addMapper(Configuration.java:651)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:97)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1625)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1562)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getTypeForFactoryBean(AbstractBeanFactory.java:1410)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryBean(AbstractAutowireCapableBeanFactory.java:802)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isTypeMatch(AbstractBeanFactory.java:541)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:436)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:412)
+	at org.springframework.beans.factory.BeanFactoryUtils.beanNamesForTypeIncludingAncestors(BeanFactoryUtils.java:187)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1112)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1051)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:530)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.apache.ibatis.builder.MapperBuilderAssistant.setCurrentNamespace(MapperBuilderAssistant.java:78)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:112)
+	... 48 more
+2017-11-27 20:58:28  [ localhost-startStop-1:1370 ] - [ WARN ]  Bean creation exception on FactoryBean type check: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMapper' defined in file [D:\shixun\abc\redis\target\classes\com\redis\mapper\UserMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+2017-11-27 20:58:28  [ localhost-startStop-1:1371 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.redis.mapper.UserMapper com.redis.service.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.redis.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+Related cause: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMapper' defined in file [D:\shixun\abc\redis\target\classes\com\redis\mapper\UserMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.redis.mapper.UserMapper com.redis.service.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.redis.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:558)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 22 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.redis.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1308)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1054)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:530)
+	... 24 more
+Related cause:
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMapper' defined in file [D:\shixun\abc\redis\target\classes\com\redis\mapper\UserMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1566)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getTypeForFactoryBean(AbstractBeanFactory.java:1410)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryBean(AbstractAutowireCapableBeanFactory.java:802)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isTypeMatch(AbstractBeanFactory.java:541)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:436)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:412)
+	at org.springframework.beans.factory.BeanFactoryUtils.beanNamesForTypeIncludingAncestors(BeanFactoryUtils.java:187)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1112)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1051)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:530)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:100)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1625)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1562)
+	... 39 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:120)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:92)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.loadXmlResource(MapperAnnotationBuilder.java:166)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parse(MapperAnnotationBuilder.java:118)
+	at org.apache.ibatis.binding.MapperRegistry.addMapper(MapperRegistry.java:71)
+	at org.apache.ibatis.session.Configuration.addMapper(Configuration.java:651)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:97)
+	... 42 more
+Caused by: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.apache.ibatis.builder.MapperBuilderAssistant.setCurrentNamespace(MapperBuilderAssistant.java:78)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:112)
+	... 48 more
+2017-11-27 20:58:28  [ localhost-startStop-1:1384 ] - [ ERROR ]  Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.redis.mapper.UserMapper com.redis.service.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.redis.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+Related cause: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMapper' defined in file [D:\shixun\abc\redis\target\classes\com\redis\mapper\UserMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.redis.mapper.UserMapper com.redis.service.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.redis.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:558)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 22 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.redis.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1308)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1054)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:530)
+	... 24 more
+Related cause:
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMapper' defined in file [D:\shixun\abc\redis\target\classes\com\redis\mapper\UserMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1566)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getTypeForFactoryBean(AbstractBeanFactory.java:1410)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryBean(AbstractAutowireCapableBeanFactory.java:802)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isTypeMatch(AbstractBeanFactory.java:541)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:436)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:412)
+	at org.springframework.beans.factory.BeanFactoryUtils.beanNamesForTypeIncludingAncestors(BeanFactoryUtils.java:187)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1112)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1051)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:530)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:100)
+	at org.springframework.dao.support.DaoSupport.afterPropertiesSet(DaoSupport.java:44)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1625)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1562)
+	... 39 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:120)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:92)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.loadXmlResource(MapperAnnotationBuilder.java:166)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.parse(MapperAnnotationBuilder.java:118)
+	at org.apache.ibatis.binding.MapperRegistry.addMapper(MapperRegistry.java:71)
+	at org.apache.ibatis.session.Configuration.addMapper(Configuration.java:651)
+	at org.mybatis.spring.mapper.MapperFactoryBean.checkDaoConfig(MapperFactoryBean.java:97)
+	... 42 more
+Caused by: org.apache.ibatis.builder.BuilderException: Wrong namespace. Expected 'com.redis.mapper.UserMapper' but found 'cn.test.email.mapping.StatisticsMapper'.
+	at org.apache.ibatis.builder.MapperBuilderAssistant.setCurrentNamespace(MapperBuilderAssistant.java:78)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:112)
+	... 48 more
+2017-11-27 21:02:02  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 21:02:02  [ localhost-startStop-1:86 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 21:02:02 CST 2017]; root of context hierarchy
+2017-11-27 21:02:02  [ localhost-startStop-1:126 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]
+2017-11-27 21:02:03  [ localhost-startStop-1:322 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]
+2017-11-27 21:02:03  [ localhost-startStop-1:343 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-service.xml]
+2017-11-27 21:02:03  [ localhost-startStop-1:540 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\db.properties]
+2017-11-27 21:02:03  [ localhost-startStop-1:540 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\resource.properties]
+2017-11-27 21:02:03  [ localhost-startStop-1:549 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 21:02:03  [ localhost-startStop-1:924 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 923 ms
+2017-11-27 21:02:28  [ http-bio-8083-exec-1:26201 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 21:02:29  [ http-bio-8083-exec-1:26208 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 21:02:29 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 21:02:29  [ http-bio-8083-exec-1:26209 ] - [ INFO ]  Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2017-11-27 21:02:29  [ http-bio-8083-exec-1:26406 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 21:02:29  [ http-bio-8083-exec-1:26607 ] - [ INFO ]  Mapped "{[/list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.redis.controller.UserController.find(org.springframework.ui.Model)
+2017-11-27 21:02:29  [ http-bio-8083-exec-1:26911 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 21:02:29 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 21:02:29  [ http-bio-8083-exec-1:26958 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 21:02:29 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 21:02:29  [ http-bio-8083-exec-1:27029 ] - [ INFO ]  Mapped URL path [/static/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2017-11-27 22:08:19  [ localhost-startStop-1:1 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 22:08:19  [ localhost-startStop-1:187 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 22:08:19 CST 2017]; root of context hierarchy
+2017-11-27 22:08:19  [ localhost-startStop-1:244 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]
+2017-11-27 22:08:20  [ localhost-startStop-1:614 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]
+2017-11-27 22:08:20  [ localhost-startStop-1:656 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-service.xml]
+2017-11-27 22:08:20  [ localhost-startStop-1:863 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\db.properties]
+2017-11-27 22:08:20  [ localhost-startStop-1:863 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\resource.properties]
+2017-11-27 22:08:20  [ localhost-startStop-1:902 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:08:21  [ localhost-startStop-1:1439 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1397 ms
+2017-11-27 22:10:33  [ http-bio-8083-exec-1:133363 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 22:10:33  [ http-bio-8083-exec-1:133366 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:10:33 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:10:33  [ http-bio-8083-exec-1:133367 ] - [ INFO ]  Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2017-11-27 22:10:33  [ http-bio-8083-exec-1:133601 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:10:33  [ http-bio-8083-exec-1:133891 ] - [ INFO ]  Mapped "{[/list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.redis.controller.UserController.find(org.springframework.ui.Model)
+2017-11-27 22:10:34  [ http-bio-8083-exec-1:134493 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:10:33 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:10:34  [ http-bio-8083-exec-1:134565 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:10:33 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:10:34  [ http-bio-8083-exec-1:134648 ] - [ INFO ]  Mapped URL path [/static/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2017-11-27 22:10:35  [ http-bio-8083-exec-2:136160 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 22:10:35  [ http-bio-8083-exec-2:136164 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:10:35 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:10:35  [ http-bio-8083-exec-2:136165 ] - [ INFO ]  Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2017-11-27 22:10:35  [ http-bio-8083-exec-2:136265 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:10:35  [ http-bio-8083-exec-2:136282 ] - [ INFO ]  Mapped "{[/list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.redis.controller.UserController.find(org.springframework.ui.Model)
+2017-11-27 22:10:36  [ http-bio-8083-exec-2:136306 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:10:35 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:10:36  [ http-bio-8083-exec-2:136331 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:10:35 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:10:36  [ http-bio-8083-exec-2:136361 ] - [ INFO ]  Mapped URL path [/static/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2017-11-27 22:10:45  [ http-bio-8083-exec-3:146218 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 22:10:45  [ http-bio-8083-exec-3:146222 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:10:45 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:10:45  [ http-bio-8083-exec-3:146224 ] - [ INFO ]  Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2017-11-27 22:10:46  [ http-bio-8083-exec-3:146307 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:10:46  [ http-bio-8083-exec-3:146334 ] - [ INFO ]  Mapped "{[/list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.redis.controller.UserController.find(org.springframework.ui.Model)
+2017-11-27 22:10:46  [ http-bio-8083-exec-3:146353 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:10:45 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:10:46  [ http-bio-8083-exec-3:146365 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:10:45 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:10:46  [ http-bio-8083-exec-3:146391 ] - [ INFO ]  Mapped URL path [/static/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2017-11-27 22:13:56  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 22:13:56  [ localhost-startStop-1:101 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 22:13:56 CST 2017]; root of context hierarchy
+2017-11-27 22:13:56  [ localhost-startStop-1:145 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]
+2017-11-27 22:13:56  [ localhost-startStop-1:303 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]
+2017-11-27 22:13:56  [ localhost-startStop-1:325 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-service.xml]
+2017-11-27 22:13:56  [ localhost-startStop-1:604 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\db.properties]
+2017-11-27 22:13:56  [ localhost-startStop-1:604 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\resource.properties]
+2017-11-27 22:13:56  [ localhost-startStop-1:613 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:13:57  [ localhost-startStop-1:956 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 956 ms
+2017-11-27 22:14:06  [ http-bio-8083-exec-1:10512 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 22:14:06  [ http-bio-8083-exec-1:10516 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:14:06 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:14:06  [ http-bio-8083-exec-1:10517 ] - [ INFO ]  Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2017-11-27 22:14:06  [ http-bio-8083-exec-1:10646 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:14:07  [ http-bio-8083-exec-1:10765 ] - [ INFO ]  Mapped "{[/list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.redis.controller.UserController.find(org.springframework.ui.Model)
+2017-11-27 22:14:07  [ http-bio-8083-exec-1:10954 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:14:06 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:14:07  [ http-bio-8083-exec-1:10993 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:14:06 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:14:07  [ http-bio-8083-exec-1:11065 ] - [ INFO ]  Mapped URL path [/static/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2017-11-27 22:15:25  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 22:15:25  [ localhost-startStop-1:84 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 22:15:25 CST 2017]; root of context hierarchy
+2017-11-27 22:15:25  [ localhost-startStop-1:134 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]
+2017-11-27 22:15:25  [ localhost-startStop-1:261 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]
+2017-11-27 22:15:25  [ localhost-startStop-1:281 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-service.xml]
+2017-11-27 22:15:26  [ localhost-startStop-1:797 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\db.properties]
+2017-11-27 22:15:26  [ localhost-startStop-1:797 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\resource.properties]
+2017-11-27 22:15:26  [ localhost-startStop-1:806 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:15:26  [ localhost-startStop-1:1113 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 1113 ms
+2017-11-27 22:15:35  [ http-bio-8083-exec-1:10399 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 22:15:35  [ http-bio-8083-exec-1:10403 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:15:35 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:15:35  [ http-bio-8083-exec-1:10405 ] - [ INFO ]  Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2017-11-27 22:15:35  [ http-bio-8083-exec-1:10542 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:15:35  [ http-bio-8083-exec-1:10682 ] - [ INFO ]  Mapped "{[/list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.redis.controller.UserController.find(org.springframework.ui.Model)
+2017-11-27 22:15:36  [ http-bio-8083-exec-1:10959 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:15:35 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:15:36  [ http-bio-8083-exec-1:11011 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:15:35 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:15:36  [ http-bio-8083-exec-1:11091 ] - [ INFO ]  Mapped URL path [/static/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2017-11-27 22:15:36  [ http-bio-8083-exec-1:11114 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization completed in 715 ms
+2017-11-27 22:15:36  [ http-bio-8083-exec-1:11278 ] - [ INFO ]  {dataSource-1} inited
+2017-11-27 22:15:37  [ http-bio-8083-exec-1:12230 ] - [ WARN ]  No mapping found for HTTP request with URI [/WEB-INF/jsp/index.jsp] in DispatcherServlet with name 'springmvc'
+2017-11-27 22:18:04  [ localhost-startStop-1:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2017-11-27 22:18:04  [ localhost-startStop-1:96 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Mon Nov 27 22:18:04 CST 2017]; root of context hierarchy
+2017-11-27 22:18:04  [ localhost-startStop-1:138 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-dao.xml]
+2017-11-27 22:18:04  [ localhost-startStop-1:270 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-jedis.xml]
+2017-11-27 22:18:04  [ localhost-startStop-1:291 ] - [ INFO ]  Loading XML bean definitions from file [D:\shixun\abc\redis\target\classes\spring\applicationContext-service.xml]
+2017-11-27 22:18:04  [ localhost-startStop-1:549 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\db.properties]
+2017-11-27 22:18:04  [ localhost-startStop-1:549 ] - [ INFO ]  Loading properties file from file [D:\shixun\abc\redis\target\classes\resource\resource.properties]
+2017-11-27 22:18:04  [ localhost-startStop-1:558 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:18:04  [ localhost-startStop-1:873 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 873 ms
+2017-11-27 22:18:24  [ http-bio-8083-exec-1:20371 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization started
+2017-11-27 22:18:24  [ http-bio-8083-exec-1:20377 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:18:24 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:18:24  [ http-bio-8083-exec-1:20378 ] - [ INFO ]  Loading XML bean definitions from class path resource [spring/springmvc.xml]
+2017-11-27 22:18:24  [ http-bio-8083-exec-1:20534 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-27 22:18:24  [ http-bio-8083-exec-1:20682 ] - [ INFO ]  Mapped "{[/list.do],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.redis.controller.UserController.find(org.springframework.ui.Model)
+2017-11-27 22:18:25  [ http-bio-8083-exec-1:20991 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:18:24 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:18:25  [ http-bio-8083-exec-1:21048 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Mon Nov 27 22:18:24 CST 2017]; parent: Root WebApplicationContext
+2017-11-27 22:18:25  [ http-bio-8083-exec-1:21134 ] - [ INFO ]  Mapped URL path [/static/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2017-11-27 22:18:25  [ http-bio-8083-exec-1:21155 ] - [ INFO ]  FrameworkServlet 'springmvc': initialization completed in 783 ms
+2017-11-27 22:18:25  [ http-bio-8083-exec-1:21268 ] - [ INFO ]  {dataSource-1} inited
+2017-11-27 22:18:25  [ http-bio-8083-exec-1:21893 ] - [ WARN ]  No mapping found for HTTP request with URI [/WEB-INF/index.jsp] in DispatcherServlet with name 'springmvc'
+2017-11-27 22:19:25  [ http-bio-8083-exec-2:81207 ] - [ WARN ]  No mapping found for HTTP request with URI [/WEB-INF/index.jsp] in DispatcherServlet with name 'springmvc'
